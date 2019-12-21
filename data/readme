@@ -1,0 +1,2 @@
+data dir could be used to write custom download function in utils and download data in here.
+Also use basedataloader to have customloader for data
